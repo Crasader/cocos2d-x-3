@@ -277,7 +277,7 @@ void HelloWorld::genBackground()
     }
 
     ccColor4F bgColor = this->randomBrightColor();
-    background = this->spriteWithColor(bgColor, 800, 480);
+    background = this->spriteWithColor(bgColor, 512, 512);
 
     CCSize winSize = CCDirector::sharedDirector()->getWinSize();
     background->setPosition(ccp(winSize.width / 2, winSize.height / 2));
@@ -298,7 +298,7 @@ void HelloWorld::genBackground(int flag)
 	//_background = this->spriteWithColor(bgColor, 512, 512);
 	
 	int nStripes = ((rand() % 4) + 1) * 2;	
-	background = this->spriteWithColor(bgColor, color2, 800, 480, nStripes);
+	background = this->spriteWithColor(bgColor, color2, 512, 512, nStripes);
 
 //	this->setScale(0.5f);
 
