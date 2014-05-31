@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/HelloWorld.png
+SHA1-Digest: tlCDturH7ovoyz2c7+EM3+0ot7A=
+
+Name: assets/fonts/arial.ttf
+SHA1-Digest: foaJFK5WjLI88v0kWt2jmW0DL70=
+
+Name: resources.arsc
+SHA1-Digest: sWF/yFGciTPi3S60pg4V+3H9u4k=
+
+Name: classes.dex
+SHA1-Digest: 8PSifeICWS7k4IUtJtWi4fkGN7U=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: /QGcO1MOwaLN1VS5dk86sEDqqKA=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: jAGLZR1Zw3vujySy5fwK5FRJTgA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: OfTDSgVvqr0e2aH4yiRobzaKVSk=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: cQ3w5oXjP5DpLByk5c8F/LUcex4=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: LInqGowEosaJVRDEfCwkX8gmK2w=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: u5cm0bYz9wbXlHD4n60oilbdZcU=
+
+Name: assets/langueChineseValue.xml
+SHA1-Digest: YZU70Z3n7tx1yRl50KpFa7XzN+0=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/test.xml
+SHA1-Digest: 3bBZZSKBhhbVAkAMGK4EqFqwNK4=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: nFMzxotJRQ5x1a+HbINp/MxJsGA=
+

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" ?>
+<!--heroList-->
+<heroNodes>
+    <hero ID="0" heroDescribe="abc">
+        <maxHp>3</maxHp>
+        <maxHeight>720</maxHeight>
+        <minHeight>160</minHeight>
+        <firstJumpH>255</firstJumpH>
+        <secondJumpH>85</secondJumpH>
+        <child5>1</child5>
+        <child6>12</child6>
+		<child7>12</child7>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </hero>
+	<hero ID="1" heroDescribe="abc">
+        <maxHp>3</maxHp>
+        <maxHeight>720</maxHeight>
+        <minHeight>160</minHeight>
+        <firstJumpH>255</firstJumpH>
+        <secondJumpH>-1</secondJumpH>
+        <child5>600</child5>
+        <child6>12</child6>
+		<child7>12</child7>
+        <boundRidus posX="32" posY="40" radius="40" />
+        <boundRidus posX="17" posY="-29" radius="32" />
+    </hero>
+		<hero ID="2" heroDescribe="abc">
+        <maxHp>3</maxHp>
+        <maxHeight>720</maxHeight>
+        <minHeight>160</minHeight>
+        <firstJumpH>255</firstJumpH>
+        <secondJumpH>200</secondJumpH>
+        <child5>12</child5>
+        <child6>12</child6>
+		<child7>12</child7>
+        <boundRidus posX="32" posY="25" radius="40" />
+        <boundRidus posX="17" posY="-39" radius="32" />
+    </hero>
+		<hero ID="3" heroDescribe="abc">
+        <maxHp>3</maxHp>
+        <maxHeight>720</maxHeight>
+        <minHeight>160</minHeight>
+        <firstJumpH>255</firstJumpH>
+        <secondJumpH>200</secondJumpH>
+        <child5>12</child5>
+        <child6>12</child6>
+		<child7>12</child7>
+        <boundRidus posX="32" posY="40" radius="40" />
+        <boundRidus posX="17" posY="-29" radius="32" />
+    </hero>
+		<hero ID="4" heroDescribe="abc">
+        <maxHp>3</maxHp>
+        <maxHeight>720</maxHeight>
+        <minHeight>160</minHeight>
+        <firstJumpH>255</firstJumpH>
+        <secondJumpH>200</secondJumpH>
+        <child5>300</child5>
+        <child6>12</child6>
+		<child7>12</child7>
+        <boundRidus posX="32" posY="35" radius="40" />
+        <boundRidus posX="17" posY="-35" radius="32" />
+    </hero>
+	<hero ID="5" heroDescribe="abc">
+        <maxHp>3</maxHp>
+        <maxHeight>720</maxHeight>
+        <minHeight>160</minHeight>
+        <firstJumpH>255</firstJumpH>
+        <secondJumpH>120</secondJumpH>
+        <child5>600</child5>
+        <child6>12</child6>
+		<child7>12</child7>
+        <boundRidus posX="32" posY="40" radius="40" />
+        <boundRidus posX="17" posY="-29" radius="32" />
+    </hero>
+</heroNodes>

@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ZG+SAC1yz0HxmIhVg3VJBNXoldI=
+
+Name: assets/HelloWorld.png
+SHA1-Digest: X0AYWVN8pKpNKlGG9S6uPOk/Ugc=
+
+Name: assets/fonts/arial.ttf
+SHA1-Digest: lKyITuOMN1+2kuuLHTBrC5QntKA=
+
+Name: resources.arsc
+SHA1-Digest: X6oqeeV8B1hDy/y9pv+cwYrx6/w=
+
+Name: classes.dex
+SHA1-Digest: fgPE54CzKUV+2LcMZvRxgNLyeBA=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: QYTROUttv6VvI3ytyM6iD61vi/w=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: Szd7/TjVFFGfo6WGuCAvpf39J90=
+
+Name: AndroidManifest.xml
+SHA1-Digest: HPtHb97QmctGroQbtoEWDxhX4/Y=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: xwIhrHpewN2eB9gy6BE4zgo6t94=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: oU0/Qj4dbdPj4o5vKvrvUrv8qrs=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: T2tP4hW6FbMj4gddP2NXXsbhDqI=
+
+Name: assets/langueChineseValue.xml
+SHA1-Digest: 7jwzPsiBCZwaacPBOfZYARFiljU=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: vFUnWlDQkc9zR4FPP59c8D/Ppyg=
+
+Name: assets/test.xml
+SHA1-Digest: mOg6GKNUOu3PNrZkbt+TxVTEJQI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 7l6klLFTCrrzVvKDbxe62zhdRl8=
+

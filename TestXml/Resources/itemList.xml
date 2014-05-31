@@ -1,0 +1,644 @@
+<?xml version="1.0" ?>
+<!--itemList-->
+<itemDataNodes>
+    <itemNode ID="0" itemDesc="碰撞得金币" itemName="金币">
+        <itemValue>1</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="25" posY="25" radius="25" />
+    </itemNode>
+    <itemNode ID="1" itemDesc="在一定时间内向前冲刺，该短时间内不会出现其他障碍" itemName="冲刺">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="37" posY="35" radius="45" />
+    </itemNode>
+    <itemNode ID="2" itemDesc="抵挡一次伤害" itemName="护盾">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="37" posY="35" radius="45" />
+    </itemNode>
+    <itemNode ID="3" itemDesc="屏幕中出现大量金币，切割得金币" itemName="疯狂金币">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="37" posY="35" radius="45" />
+    </itemNode>
+    <itemNode ID="4" itemDesc="需要切割得金币" itemName="大型金币">
+        <itemValue>1</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="5" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="6" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="7" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="8" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="9" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="10" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="11" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="12" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="13" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="14" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="15" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="16" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="17" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="18" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="19" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="20" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="21" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="22" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="23" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="24" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="25" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="26" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="27" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="28" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="29" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="30" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="31" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="32" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="33" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="34" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="35" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="36" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="37" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="38" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="39" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="40" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="41" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="42" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+    <itemNode ID="43" itemDesc="abc" itemName="abc">
+        <itemValue>12</itemValue>
+        <itemEffect>12</itemEffect>
+        <itemType>12</itemType>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+        <child10>12</child10>
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+        <boundRidus posX="12" posY="12" radius="30" />
+    </itemNode>
+</itemDataNodes>

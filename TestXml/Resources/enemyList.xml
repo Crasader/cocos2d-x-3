@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--enemyList-->
+<enemyDataNodes>
+    <monste0 ID="0" enemyDescribe="测试">
+        <hp>1</hp>
+        <speed>12</speed>
+        <scroe>20</scroe>
+        <money>0</money>
+        <child4>12</child4>
+        <child5>12</child5>
+        <child6>12</child6>
+        <child7>12</child7>
+        <child8>12</child8>
+        <child9>12</child9>
+		<boundRidus posX="40" posY="40" radius="40" />
+    </monste0>
+</enemyDataNodes>
